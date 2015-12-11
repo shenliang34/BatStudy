@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<!-- create by X2X , create time Mon Jul 20 18:00:07 2015 -->
-<msg_id>
-    <funname msgid="1101" FunName="MSGID_MAP_ENTER" ack="MSG_ENTER_GAME_ACK" />
-    <funname msgid="1102" FunName="MSGID_MAP_MOVE" ack="" />
-    <funname msgid="1103" FunName="MSGID_MAP_LEAVE" ack="" />
-    <funname msgid="1104" FunName="MSGID_MAP_UPDATE" ack="MSG_MAP_UPDATE_ACK" />
-</msg_id>
